@@ -1,0 +1,9 @@
+clc
+clear
+
+evaluateOnUnrealDataset
+evaluateOnConstructionDataset
+evaluateOnTeapot
+evaluateOnHiltiDataset
+evaluateOnOutdoorDataset
+evaluateOnLivingRoom
